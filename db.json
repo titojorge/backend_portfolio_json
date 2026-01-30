@@ -48,7 +48,7 @@
             "url_view_prev": "https://ecommercedh.vercel.app/",
             "url_git_hub": "https:\/\/github.com\/titojorge\/ecommerce-dh",
             "title": "Ecommerce DH",
-            "description": "Proyecto web final e integrador que consume una API local de productos, diseñado con HTML, CSS, React, Redux, Typescript y NodeJs, . Presenta un diseño responsivo y funcional, destacando integración y usabilidad."
+            "description": "Proyecto web final e integrador que consume una API local de productos, diseñado con HTML, CSS, React, Redux, Typescript y NodeJs, . Presenta un diseño responsivo y funcional, destacando integración y usabilidad. Backend desplegado en Railway y Frontend desplegado en Vercel."
         },
         {
             "id": 2,
@@ -56,7 +56,7 @@
             "url_view_prev": "https:\/\/github.com\/titojorge\/portfolio_jaz",
             "url_git_hub": "https:\/\/github.com\/titojorge\/portfolio_jaz",
             "title": "Portfolio Jorge Zoto",
-            "description": "Proyecto web de portfolio hecho en react, typescript, nodeJs, y usando json-server. Un par de hooks de react como ser useState y useEffect. "
+            "description": "Proyecto web de portfolio hecho en react, typescript, nodeJs, y usando json-server. Un par de hooks de react como ser useState y useEffect. Backend desplegado en Railway y Frontend desplegado en Vercel."
         },
         {
             "id": 3,
@@ -64,7 +64,7 @@
             "url_view_prev": "https://example-mercado-liebre-xrrz.onrender.com/",
             "url_git_hub": "https:\/\/github.com\/titojorge\/portfolio_jaz",
             "title": "Mercado Liebre Proyecto Final DH",
-            "description": "Proyecto web para el final del curso de Fullstack en Digital House hecho en react, nodeJs, html, css y bootstrap. Un par de hooks de react como ser useState y useEffect."
+            "description": "Proyecto web para el final del curso de Fullstack en Digital House hecho en react, nodeJs, html, css y bootstrap. Un par de hooks de react como ser useState y useEffect. Projecto desplegado en Render."
         }
     ]
 }
